@@ -170,6 +170,7 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
+<<<<<<< HEAD
   Time since last request: 300122.622193 seconds.
   path: Assets/Prefabs/Cube.prefab
   artifactKey: Guid(c9b1bd2b1a954448ea9dbd1ed97f099f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
@@ -1473,3 +1474,15 @@ Received Import Request.
   artifactKey: Guid(d9c43b72769f948708c1032233604c12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing  using Guid(d9c43b72769f948708c1032233604c12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000117 seconds  code(3) message(Unknown asset with GUID 'd9c43b72769f948708c1032233604c12')
   ERROR: Unknown asset with GUID 'd9c43b72769f948708c1032233604c12'
+=======
+  Time since last request: 28690.098258 seconds.
+  path: Assets/Scenes/Flower.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Flower.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4fbcd06f45c94ad3f6f554d3c9db209') in 0.012362 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1300.000323 seconds.
+  path: Packages/com.unity.burst/package.json
+  artifactKey: Guid(5fb28db57db3325b95957fcfe1a0108b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.burst/package.json using Guid(5fb28db57db3325b95957fcfe1a0108b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf5be0e7fc4b1678ebce580bc32473bc') in 0.533657 seconds 
+>>>>>>> a3605b15 (deleted ./Runtime)
