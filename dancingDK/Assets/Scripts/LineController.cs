@@ -12,6 +12,8 @@ public class LineController : MonoBehaviour
     public static bool startAgain = false;
     public static bool canEnd = false;
     public Camera mainCamera;
+    public float startTime;
+    
 
     // Start is called before the first frame update
     void Start()
@@ -19,6 +21,7 @@ public class LineController : MonoBehaviour
         backgroundMusic = GetComponent<AudioSource>();
         rbd = GetComponent<Rigidbody>();
         startAgain = false;
+        backgroundMusic.time = startTime;
     }
 
     // Update is called once per frame

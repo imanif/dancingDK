@@ -1,5 +1,6 @@
 {
 <<<<<<< HEAD
+<<<<<<< HEAD
 	"process_id" : 77633,
 	"version" : "2021.3.19f1",
 	"app_path" : "/Applications/Unity/Hub/Editor/2021.3.19f1/Unity.app",
@@ -10,4 +11,10 @@
 	"app_path" : "/Users/katherinehu/Desktop/2021.3.18f1/Unity.app",
 	"app_contents_path" : "/Users/katherinehu/Desktop/2021.3.18f1/Unity.app/Contents"
 >>>>>>> 9ca17ab2 (pause menu 1/2 stop at end 1/1)
+=======
+	"process_id" : 15461,
+	"version" : "2021.3.18f1",
+	"app_path" : "/Users/katherinehu/Desktop/2021.3.18f1/Unity.app",
+	"app_contents_path" : "/Users/katherinehu/Desktop/2021.3.18f1/Unity.app/Contents"
+>>>>>>> 78eb2bc6 (finished flower level;)
 }
